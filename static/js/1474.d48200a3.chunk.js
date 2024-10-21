@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkproje=self.webpackChunkproje||[]).push([[1474],{61474:(e,s,r)=>{r.r(s),r.d(s,{default:()=>c});r(9950);var t=r(44414);const c=()=>(0,t.jsx)("div",{children:"Settings"})}}]);

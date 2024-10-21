@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkproje=self.webpackChunkproje||[]).push([[3916],{53916:(e,t,o)=>{o.r(t),o.d(t,{default:()=>s});var r=o(44414);const s=()=>(window.location.href="https://www.thethao2q.org/",(0,r.jsx)(r.Fragment,{}))}}]);
